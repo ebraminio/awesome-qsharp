@@ -11,10 +11,13 @@ Feel free to improve this list using GitHub pull request mechanism.
 -->
 
 ## Official Resources
-* [Installation](https://docs.microsoft.com/en-us/quantum/quantum-installconfig)
-* [Q# Source](https://github.com/Microsoft/quantum)
-* [Quantum Development Kit Documentation](https://docs.microsoft.com/en-us/quantum/)
+* [Installation guide](https://docs.microsoft.com/en-us/quantum/quantum-installconfig)
+* [Q# libraries and samples](https://github.com/Microsoft/quantum)
+* [Quantum Development Kit documentation](https://docs.microsoft.com/en-us/quantum/)
   <br>(Specially "Quantum computing concepts" gives a good introduction to quantum computing in general)
+* [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - programming exercises for learning Q# and quantum computing
+* [Feedback forums](https://quantum.uservoice.com/)
 
-## Resources
+## Blogs
+* [The Hitchhiker’s Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
 * El Bruno [blog posts](https://elbruno.com/tag/q/) and [examples](https://github.com/elbruno/Blog/search?utf8=✓&q=extension%3Aqs&type=)
