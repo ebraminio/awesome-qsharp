@@ -17,6 +17,7 @@ Feel free to improve this list using GitHub pull request mechanism.
   <br>(Specially "Quantum computing concepts" gives a good introduction to quantum computing in general)
 * [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - programming exercises for learning Q# and quantum computing
 * [Feedback forums](https://quantum.uservoice.com/)
+* [Quantum Computing Libraries for noncommercial use](https://github.com/Microsoft/Quantum-NC)
 
 ## Blogs
 * [The Hitchhiker’s Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
