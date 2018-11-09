@@ -12,12 +12,17 @@ Feel free to improve this list using GitHub pull request mechanism.
 
 ## Official Resources
 * [Installation guide](https://docs.microsoft.com/en-us/quantum/quantum-installconfig)
-* [Q# libraries and samples](https://github.com/Microsoft/quantum)
-* [Quantum Development Kit documentation](https://docs.microsoft.com/en-us/quantum/)
+* [Q# samples](https://github.com/Microsoft/Quantum)
+* [Q# libraries](https://github.com/Microsoft/QuantumLibraries)
+* [Quantum Development Kit documentation](https://docs.microsoft.com/quantum/)
   <br>(Specially "Quantum computing concepts" gives a good introduction to quantum computing in general)
-* [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - programming exercises for learning Q# and quantum computing
 * [Feedback forums](https://quantum.uservoice.com/)
 * [Quantum Computing Libraries for noncommercial use](https://github.com/Microsoft/Quantum-NC)
+
+## Tutorials
+
+* [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - programming exercises for learning Q# and quantum computing
+* [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - materials for "Introduction to Quantum Computing" workshop presented at Grace Hopper Celebration 2018
 
 ## Blogs
 * [The Hitchhiker’s Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
