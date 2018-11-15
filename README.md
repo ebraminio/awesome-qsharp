@@ -26,7 +26,8 @@ Feel free to improve this list using GitHub pull request mechanism.
 
 ## Coding Contests Solutions
 * [Solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces](https://github.com/RobertDurfee/QSharpCodingChallenge)
-* [Q# codes by Hiroshi Kurokawa](https://github.com/hkurokawa/QSharpCodingContest2018) for https://codeforces.com/contest/1002
+* [Q# codes by Hiroshi Kurokawa](https://github.com/hkurokawa/QSharpCodingContest2018) for https://codeforces.com/contest/1002\
+* [_No Description_ by Hajime Fukuda](https://github.com/hajifkd/qsharp-vscode)
 
 ## IDE Integration
 * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=quantum.quantum-devkit-vscode)
