@@ -29,7 +29,7 @@ Feel free to improve this list using GitHub pull request mechanism.
 * [Q# codes by Hiroshi Kurokawa](https://github.com/hkurokawa/QSharpCodingContest2018) for https://codeforces.com/contest/1002
 
 ## IDE Integration
-* [Visual Studio Code](https://github.com/hajifkd/qsharp-vscode)
+* [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=quantum.quantum-devkit-vscode)
 * [Emacs](https://github.com/forked-from-1kasper/emacs-qsharp-mode)
 * [Atom](https://github.com/ivangabriele/atom-qsharp)
 
