@@ -18,18 +18,21 @@ Feel free to improve this list using GitHub pull request mechanism.
   <br>(Specially "Quantum computing concepts" gives a good introduction to quantum computing in general)
 * [Feedback forums](https://quantum.uservoice.com/)
 * [Quantum Computing Libraries for noncommercial use](https://github.com/Microsoft/Quantum-NC)
-* [Workshop materials for the "Introduction to Quantum Computing" workshop at 2018 Grace Hopper Celebration](https://github.com/Microsoft/GHC18-IntroToQuantumComputing)
 
 ## Tutorials
 * [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - programming exercises for learning Q# and quantum computing
-* [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - materials for "Introduction to Quantum Computing" workshop presented at Grace Hopper Celebration 2018
+* [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - materials for self-paced "Introduction to Quantum Computing" workshop presented at Grace Hopper Celebration 2018
+* [Quantum Perceptron](https://github.com/Microsoft/MLADS2018-QuantumML) - materials for self-paced "Introduction to Quantum Machine Learning" workshop presented at MLADS 2018
 
-## Coding Contests Solutions
+## Coding Contests and Solutions
+* [Microsoft Q# Coding Contest - Summer 2018](https://codeforces.com/contest/1002) and [Warmup Round](https://codeforces.com/contest/1001)
+* Solution descriptions for [Microsoft Q# Coding Contest - Summer 2018](https://assets.codeforces.com/rounds/997-998/main-contest-editorial.pdf) and [Warmup Round](https://assets.codeforces.com/rounds/997-998/warmup-editorial.pdf)
 * [Solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces](https://github.com/RobertDurfee/QSharpCodingChallenge)
-* [Q# codes by Hiroshi Kurokawa](https://github.com/hkurokawa/QSharpCodingContest2018) for https://codeforces.com/contest/1002\
-* [_No Description_ by Hajime Fukuda](https://github.com/hajifkd/qsharp-vscode)
+* [Q# codes by Hiroshi Kurokawa](https://github.com/hkurokawa/QSharpCodingContest2018)
+* [No Description_ by Hajime Fukuda](https://github.com/hajifkd/qsharp-vscode)
 
 ## IDE Integration
+* [Visual Studio](https://marketplace.visualstudio.com/items?itemName=quantum.DevKit)
 * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=quantum.quantum-devkit-vscode)
 * [Emacs](https://github.com/forked-from-1kasper/emacs-qsharp-mode)
 * [Atom](https://github.com/ivangabriele/atom-qsharp)
@@ -42,5 +45,6 @@ Feel free to improve this list using GitHub pull request mechanism.
 * [Q# playgroud](https://github.com/weize07/Qsharp-playgroud)
 
 ## Blogs
+* [Q# Dev Blog](https://blogs.msdn.microsoft.com/visualstudio/tag/qsharp/) - an official blog of Q# dev team
 * [The Hitchhiker’s Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
 * El Bruno [blog posts](https://elbruno.com/tag/q/) and [examples](https://github.com/elbruno/Blog/search?utf8=✓&q=extension%3Aqs&type=)
