@@ -46,5 +46,6 @@ Feel free to improve this list using GitHub pull request mechanism.
 
 ## Blogs
 * [Q# Dev Blog](https://blogs.msdn.microsoft.com/visualstudio/tag/qsharp/) - an official blog of Q# dev team
+* [Q# Advent Calendar 2018](https://blogs.msdn.microsoft.com/visualstudio/2018/11/15/q-advent-calendar-2018/) - a collection of Q#-related blog posts
 * [The Hitchhiker’s Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
 * El Bruno [blog posts](https://elbruno.com/tag/q/) and [examples](https://github.com/elbruno/Blog/search?utf8=✓&q=extension%3Aqs&type=)
