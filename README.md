@@ -24,6 +24,9 @@ Feel free to improve this list using GitHub pull request mechanism.
 * [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - materials for self-paced "Introduction to Quantum Computing" workshop presented at Grace Hopper Celebration 2018
 * [Quantum Perceptron](https://github.com/Microsoft/MLADS2018-QuantumML) - materials for self-paced "Introduction to Quantum Machine Learning" workshop presented at MLADS 2018
 
+## Videos
+* [Introduction to Quantum Programming through the Quantum Katas](https://www.youtube.com/watch?v=h3M8OomE19o) - Microsoft Ignite 2018 session ([here](https://www.youtube.com/watch?v=AjBLsrGgEkY) is the same session held with VS Code instead of Visual Studio)
+
 ## Coding Contests and Solutions
 * [Microsoft Q# Coding Contest - Summer 2018](https://codeforces.com/contest/1002) and [Warmup Round](https://codeforces.com/contest/1001)
 * Solution descriptions for [Microsoft Q# Coding Contest - Summer 2018](https://assets.codeforces.com/rounds/997-998/main-contest-editorial.pdf) and [Warmup Round](https://assets.codeforces.com/rounds/997-998/warmup-editorial.pdf)
