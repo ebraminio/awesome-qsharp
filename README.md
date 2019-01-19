@@ -25,7 +25,10 @@ Feel free to improve this list using GitHub pull request mechanism.
 * [Quantum Perceptron](https://github.com/Microsoft/MLADS2018-QuantumML) - materials for self-paced "Introduction to Quantum Machine Learning" workshop presented at MLADS 2018
 
 ## Videos
-* [Introduction to Quantum Programming through the Quantum Katas](https://www.youtube.com/watch?v=h3M8OomE19o) - Microsoft Ignite 2018 session ([here](https://www.youtube.com/watch?v=AjBLsrGgEkY) is the same session held with VS Code instead of Visual Studio)
+* [Microsoft Quantum Development Kit Preview](https://www.youtube.com/watch?v=v7b4J2INq9c) with Krysta Svore - step-by-step demo of quantum teleportation at Microsoft Mechanics
+* [Introduction to Quantum Programming through the Quantum Katas](https://www.youtube.com/watch?v=h3M8OomE19o) with Bettina Heim - Microsoft Ignite 2018 session ([here](https://www.youtube.com/watch?v=AjBLsrGgEkY) is the same session held with VS Code instead of Visual Studio)
+* [Learn to build your first quantum solution with the Quantum Development Kit and Q#](https://www.youtube.com/watch?v=YE4m3yCdcqE) with John Azariah - Microsoft Build 2018 session
+* [Programming quantum computers in .NET using Microsoft Q#](https://www.youtube.com/watch?v=qOg6weW-IDo) with Rolf Huisman
 
 ## Coding Contests and Solutions
 * [Microsoft Q# Coding Contest - Summer 2018](https://codeforces.com/contest/1002) and [Warmup Round](https://codeforces.com/contest/1001)
