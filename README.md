@@ -2,13 +2,19 @@
 
 > Q# is a domain-specific programming language used for expressing quantum algorithms. It was initially released to the public by Microsoft as part of the Quantum Development Kit. [Wikipedia](https://en.wikipedia.org/wiki/Q_Sharp)
 
-An early stage list of Q# code and resources.
+A list of Q# code and resources.
 
-Feel free to improve this list using GitHub pull request mechanism.
+Feel free to improve this list using GitHub pull request mechanism, see [CONTRIBUTING](CONTRIBUTING.md) for more information.
 
-<!--
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
--->
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+## Contents
+- [Official Resources](#official-resources)
+- [Tutorials](#tutorials)
+- [Videos](#videos)
+- [Coding Contests and Solutions](#coding-contests-and-solutions)
+- [IDE Integration](#ide-integration)
+- [Blogs](#blogs)
 
 ## Official Resources
 * [Installation guide](https://docs.microsoft.com/en-us/quantum/quantum-installconfig)
