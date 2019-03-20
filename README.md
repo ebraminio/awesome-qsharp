@@ -37,10 +37,12 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 ## Coding Contests and Solutions
 
 ### Official resources
-- [Microsoft Q# Coding Contest - Summer 2018](https://codeforces.com/contest/1002) (+ [Warmup Round](https://codeforces.com/contest/1001)).
-- Solution descriptions for [Microsoft Q# Coding Contest - Summer 2018](https://assets.codeforces.com/rounds/997-998/main-contest-editorial.pdf) and for the [Warmup Round](https://assets.codeforces.com/rounds/997-998/warmup-editorial.pdf)
-- [Microsoft Q# Coding Contest - Winter 2019](https://codeforces.com/contest/1116) (+ [Warmup Round](https://codeforces.com/contest/1115)).
-- Solution descriptions for [Microsoft Q# Coding Contest - Winter 2019](https://codeforces.com/blog/entry/65702) and for the [Warmup Round](https://assets.codeforces.com/rounds/1115/warmup-editorial.pdf)
+- [Microsoft Q# Coding Contest (Summer 2018)](https://codeforces.com/contest/1002)
+- [Microsoft Q# Coding Contest (Summer 2018) Warmup Round](https://codeforces.com/contest/1001)
+- Solution descriptions for [Microsoft Q# Coding Contest (Summer 2018)](https://assets.codeforces.com/rounds/997-998/main-contest-editorial.pdf) and for the [Warmup Round](https://assets.codeforces.com/rounds/997-998/warmup-editorial.pdf)
+- [Microsoft Q# Coding Contest (Winter 2019)](https://codeforces.com/contest/1116)
+- [Microsoft Q# Coding Contest (Winter 2019) Warmup Round](https://codeforces.com/contest/1115)
+- Solution descriptions for [Microsoft Q# Coding Contest (Winter 2019)](https://codeforces.com/blog/entry/65702) and for the [Warmup Round](https://assets.codeforces.com/rounds/1115/warmup-editorial.pdf)
 
 ### Participants' solutions
 - [Solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces](https://github.com/RobertDurfee/QSharpCodingChallenge)
