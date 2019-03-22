@@ -4,7 +4,7 @@
 
 A list of Q# code and resources.
 
-Feel free to improve this list using GitHub pull request mechanism, see [CONTRIBUTING](CONTRIBUTING.md) for more information.
+Feel free to improve this list using GitHub pull request mechanism, see [CONTRIBUTING](contributing.md) for more information.
 
 ## Contents
 - [Official Resources](#official-resources)
