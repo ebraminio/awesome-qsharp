@@ -54,6 +54,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=quantum.quantum-devkit-vscode)
 - [Emacs](https://github.com/forked-from-1kasper/emacs-qsharp-mode)
 - [Atom](https://github.com/ivangabriele/atom-qsharp)
+- [Vim](https://github.com/gootorov/q-sharp.vim)
 
 ## Demos and Samples
 - [Quantum Computing Q# Introduction 2018](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
