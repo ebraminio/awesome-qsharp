@@ -9,6 +9,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 ## Contents
 - [Official Resources](#official-resources)
 - [Tutorials](#tutorials)
+- [Books](#books)
 - [Videos](#videos)
 - [Coding Contests and Solutions](#coding-contests-and-solutions)
 - [IDE Integration](#ide-integration)
