@@ -13,7 +13,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Videos](#videos)
 - [Coding Contests and Solutions](#coding-contests-and-solutions)
 - [IDE Integration](#ide-integration)
-- [Demos and Samples](#demos-and-samples)
+- [Demos, Samples, and Additional Libraries](#demos-samples-and-additional-libraries)
 - [Blogs](#blogs)
 
 ## Official Resources
@@ -68,7 +68,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Hadamard Gate Q# Demo](https://github.com/jwulf/HGate)
 - [Q# Bell State Program](https://github.com/pktippa/q_sharp_bell_state)
 - [Q# playgroud](https://github.com/weize07/Qsharp-playgroud)
-- [QuantumPeep](https://github.com/mapmeld/quantum-peep) - generate Q# from JavaScript/TypeScript
+- [QuantumPeep](https://github.com/mapmeld/quantum-peep) - Generate Q# from JavaScript/TypeScript.
 
 ## Blogs
 - [Q# Dev Blog](https://devblogs.microsoft.com/qsharp/) - Official blog of Q# dev team.
