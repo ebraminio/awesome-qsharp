@@ -13,7 +13,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Videos](#videos)
 - [Coding Contests and Solutions](#coding-contests-and-solutions)
 - [IDE Integration](#ide-integration)
-- [Demos and Samples](#demos-and-samples)
+- [Demos, Samples, and Additional Libraries](#demos-samples-and-additional-libraries)
 - [Blogs](#blogs)
 
 ## Official Resources
@@ -62,12 +62,13 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Atom](https://github.com/ivangabriele/atom-qsharp)
 - [Vim](https://github.com/gootorov/q-sharp.vim)
 
-## Demos and Samples
+## Demos, Samples, and Additional Libraries
 - [Quantum Computing Q# Introduction 2018](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
 - [A implementation of Shor's algorithm written in Python calling Q# for the quantum part](https://github.com/Michaelvll/myQShor)
 - [Hadamard Gate Q# Demo](https://github.com/jwulf/HGate)
 - [Q# Bell State Program](https://github.com/pktippa/q_sharp_bell_state)
 - [Q# playgroud](https://github.com/weize07/Qsharp-playgroud)
+- [QuantumPeep](https://github.com/mapmeld/quantum-peep) - Generate Q# from JavaScript/TypeScript.
 
 ## Blogs
 - [Q# Dev Blog](https://devblogs.microsoft.com/qsharp/) - Official blog of Q# dev team.
