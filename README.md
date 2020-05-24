@@ -39,7 +39,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Introduction to Quantum Programming through the Quantum Katas](https://www.youtube.com/watch?v=h3M8OomE19o) - Bettina Heim, Microsoft Ignite 2018 session ([here](https://www.youtube.com/watch?v=AjBLsrGgEkY) is the same session held with VS Code instead of Visual Studio).
 - [Learn to build your first quantum solution with the Quantum Development Kit and Q#](https://www.youtube.com/watch?v=YE4m3yCdcqE) - John Azariah, Microsoft Build 2018 session.
 - [Programming quantum computers in .NET using Microsoft Q#](https://www.youtube.com/watch?v=qOg6weW-IDo) - Rolf Huisman.
-- [Quantum computing sessions at //Build 2019](https://mybuild.techcommunity.microsoft.com/sessions?q=quantum)
+- [Quantum computing sessions at //Build](https://mybuild.microsoft.com/sessions?q=quantum)
 
 ## Coding Contests and Solutions
 
