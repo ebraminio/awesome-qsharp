@@ -30,6 +30,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Create your first Q# program by using the Quantum Development Kit](https://docs.microsoft.com/en-us/learn/modules/qsharp-create-first-quantum-development-kit/) - Microsoft Learn module.
 - [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - Materials for self-paced "Introduction to Quantum Computing" workshop presented at Grace Hopper Celebration 2018 and Hopper x1 Seattle 2019.
 - [Quantum Perceptron](https://github.com/Microsoft/MLADS2018-QuantumML) - Materials for self-paced "Introduction to Quantum Machine Learning" workshop presented at MLADS 2018.
+- [Quantum Classification](https://github.com/microsoft/MLADS2020-QuantumClassification) - Materials for self-paced "Introduction to Quantum Classification" lab presented at MLADS 2020.
 
 ## Books
 - [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Manning, early access, est. Spring 2020, [Dr. Sarah Kaiser](https://www.sckaiser.com/) and [Chris Granade](https://www.cgranade.com/).
@@ -56,6 +57,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - Solution descriptions for [Microsoft Q# Coding Contest (Winter 2019)](https://codeforces.com/blog/entry/65702) and for the [Warmup Round](https://assets.codeforces.com/rounds/1115/warmup-editorial.pdf)
 - [Microsoft Q# Coding Contest (Summer 2020)](https://codeforces.com/contest/1357)
 - [Microsoft Q# Coding Contest (Summer 2020) Warmup Round](https://codeforces.com/contest/1356)
+- Solution descriptions for [Microsoft Q# Coding Contest (Summer 2020)](https://codeforces.com/blog/entry/79208) and for the [Warmup Round](https://codeforces.com/blog/entry/78832)
 
 ### Participants' solutions
 - [Solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces](https://github.com/RobertDurfee/QSharpCodingChallenge)
@@ -81,6 +83,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Q# Dev Blog](https://devblogs.microsoft.com/qsharp/) - Official blog of Q# dev team.
 - [Microsoft Quantum Blog](https://cloudblogs.microsoft.com/quantum/) - Official blog of Microsoft Quantum team.
 - [Q# Advent Calendar 2018](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2018/) - Collection of Q#-related blog posts.
+- [Q# Advent Calendar 2019](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2019/) - Collection of Q#-related blog posts.
 - [The Hitchhiker’s Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
 - [El Bruno's blog posts](https://elbruno.com/tag/q/)
 
