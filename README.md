@@ -11,6 +11,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Videos](#videos)
+- [Q/A](#qa)
 - [Coding Contests and Solutions](#coding-contests-and-solutions)
 - [IDE Integration](#ide-integration)
 - [Demos, Samples, and Additional Libraries](#demos-samples-and-additional-libraries)
