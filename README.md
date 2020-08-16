@@ -37,6 +37,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Manning, early access, est. Spring 2020, [Dr. Sarah Kaiser](https://www.sckaiser.com/) and [Chris Granade](https://www.cgranade.com/).
 
 ## Videos
+<!--lint ignore double-link-->
 - [Microsoft Quantum Development Kit Preview](https://www.youtube.com/watch?v=v7b4J2INq9c) - Krysta Svore - step-by-step demo of quantum teleportation at Microsoft Mechanics.
 - [Introduction to Quantum Programming through the Quantum Katas](https://www.youtube.com/watch?v=h3M8OomE19o) - Bettina Heim, Microsoft Ignite 2018 session ([here](https://www.youtube.com/watch?v=AjBLsrGgEkY) is the same session held with VS Code instead of Visual Studio).
 - [Learn to build your first quantum solution with the Quantum Development Kit and Q#](https://www.youtube.com/watch?v=YE4m3yCdcqE) - John Azariah, Microsoft Build 2018 session.
@@ -66,6 +67,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [No Description_ by Hajime Fukuda](https://github.com/hajifkd/qsharp-vscode)
 
 ## IDE Integration
+<!--lint ignore double-link-->
 - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=quantum.DevKit)
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=quantum.quantum-devkit-vscode)
 - [Emacs](https://github.com/forked-from-1kasper/emacs-qsharp-mode)
