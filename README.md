@@ -74,8 +74,6 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Atom](https://github.com/ivangabriele/atom-qsharp)
 - [Vim](https://github.com/gootorov/q-sharp.vim)
 
-## Planets
-
 ## Demos, Samples, and Additional Libraries
 - [Quantum Computing Q# Introduction 2018](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
 - [A implementation of Shor's algorithm written in Python calling Q# for the quantum part](https://github.com/Michaelvll/myQShor)
