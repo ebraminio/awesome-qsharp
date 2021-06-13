@@ -73,6 +73,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Emacs](https://github.com/forked-from-1kasper/emacs-qsharp-mode)
 - [Atom](https://github.com/ivangabriele/atom-qsharp)
 - [Vim](https://github.com/gootorov/q-sharp.vim)
+- [Jupyter Notebook](https://docs.microsoft.com/en-us/azure/quantum/install-jupyter-qdk)
 
 ## Demos, Samples, and Additional Libraries
 - [Quantum Computing Q# Introduction 2018](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
