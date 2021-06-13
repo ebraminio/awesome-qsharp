@@ -34,7 +34,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Quantum Classification](https://github.com/microsoft/MLADS2020-QuantumClassification) - Materials for self-paced "Introduction to Quantum Classification" lab presented at MLADS 2020.
 
 ## Books
-- [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Manning, early access, est. Spring 2020, [Dr. Sarah Kaiser](https://www.sckaiser.com/) and [Chris Granade](https://www.cgranade.com/).
+- [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Manning, 2021, [Sarah Kaiser](https://www.sckaiser.com/) and [Chris Granade](https://www.cgranade.com/).
 
 ## Videos
 <!--lint ignore double-link-->
